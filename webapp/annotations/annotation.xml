@@ -15,8 +15,8 @@
                 </Annotation>
                 <Annotation Term="UI.LineItem">
                     <Collection>
-                        <Record Type="UI.DataField">
-                            <PropertyValue Property="Value" Path="EMPLOYEE_ID"/>
+                        <Record Type="UI.DataField" >
+                            <PropertyValue Property="Value" Path="EMPLOYEE_ID" />
                         </Record>
                         <Record Type="UI.DataField">
                             <PropertyValue Property="Value" Path="EMPLOYEE_NAME"/>
