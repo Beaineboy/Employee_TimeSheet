@@ -29,7 +29,7 @@
                         </Record>
                         <Record Type="UI.DataField">
                             <PropertyValue Property="Value" Path="END_TIME"/>
-                        </
+                        </Record>
                         <Record Type="UI.DataField">
                             <PropertyValue Property="Value" Path="EMPLOYEE_REMARK"/>
                         </Record>
