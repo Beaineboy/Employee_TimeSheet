@@ -33,7 +33,6 @@
                         <Record Type="UI.DataField">
                             <PropertyValue Property="Value" Path="EMPLOYEE_REMARK"/>
                         </Record>
-                        
                     </Collection>
                 </Annotation>
             </Annotations>
